@@ -10,3 +10,6 @@ Ensure you have the necessary tools and services installed and configured on you
 Git
 Web server software (e.g., Apache, Nginx)
 SSH keys set up for Git access (if using private repositories)
+
+
+2. Creating the Deployment Script
